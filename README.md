@@ -4,9 +4,13 @@
 - Singleton
 - Factory
 - Abstract Factory
-- Prototype
+- Prototype and Registry
 - Builder
 
 ### Structural
 - Adapter
 - Facade
+- Bridge
+- Proxy
+- Decorator
+- Flyway
